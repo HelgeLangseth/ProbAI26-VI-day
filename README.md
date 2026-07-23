@@ -9,6 +9,7 @@
 
 ## Day 2 - After Lunch (August 4 -- 1pm-4pm)
 * [**Slides**](./slides/2-after_lunch.pdf)
+* [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/AfterLunch/BayesianNeuralNetworks.ipynb)
 * **Notebook:** [BayesianNeuralNetworks](./python/AfterLunch/BayesianNeuralNetworks.ipynb). Open in [colab](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/AfterLunch/BayesianNeuralNetworks.ipynb)
 * **Notebook:** [students_BBVI](./python/AfterLunch/students_BBVI.ipynb). Open in [colab](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/AfterLunch/students_BBVI.ipynb)
 * **Notebook:** [solutions_BBVI](./python/AfterLunch/solutions_BBVI.ipynb). Will be made available *after* the session.  
