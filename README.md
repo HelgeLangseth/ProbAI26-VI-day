@@ -2,7 +2,7 @@
 
 ## Day 2 - Before Lunch (August 4 -- 9am-12pm)
 * [Slides](./slides/1-before_lunch.pdf)
-* Notebook: [students_simple_model](./python/BeforeLunch/students_simple_model.ipynb) -- Open in [colab](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/BeforeLunch/students_simple_model.ipynb)
+* Notebook: [students_simple_model](./python/BeforeLunch/students_simple_model.ipynb). Open in [colab](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/BeforeLunch/students_simple_model.ipynb)
 * Notebook: [solutions_simple_model](./python/BeforeLunch/solution_simple_model.ipynb) -- Available after exercise
 * Notebook: [CAVI-linreg](./python/BeforeLunch/CAVI-linreg.ipynb)
 
