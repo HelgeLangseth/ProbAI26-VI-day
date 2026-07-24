@@ -1,13 +1,13 @@
 # ProbAI 2026 - Variational Inference and Optimization Tutorial 
 
-## Day 2 - Before Lunch (August 4 -- 9am-12pm)
+## Before Lunch (August 4 -- 9am-12pm)
 * [**Slides**](./slides/1-before_lunch.pdf)
 * **Notebook:** [students_simple_model](./python/BeforeLunch/students_simple_model.ipynb). [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/BeforeLunch/students_simple_model.ipynb)
 * **Notebook:** [solutions_simple_model](./python/BeforeLunch/solution_simple_model.ipynb). Will be made available *after* the session.  
 * **Notebook:** [CAVI-linreg](./python/BeforeLunch/CAVI-linreg.ipynb). [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/BeforeLunch/CAVI-linreg.ipynb)
 
 
-## Day 2 - After Lunch (August 4 -- 1pm-4pm)
+## After Lunch (August 4 -- 1pm-4pm)
 * [**Slides**](./slides/2-after_lunch.pdf)
 * **Notebook:** [BayesianNeuralNetworks](./python/AfterLunch/BayesianNeuralNetworks.ipynb). [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/AfterLunch/BayesianNeuralNetworks.ipynb)
 * **Notebook:** [students_BBVI](./python/AfterLunch/students_BBVI.ipynb). [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/AfterLunch/students_BBVI.ipynb)
@@ -20,7 +20,7 @@
 * **Notebook:** [solutions_bayesian_logistic_regression](./python/AfterLunch/solutions_bayesian_logistic_regression.ipynb). Will be made available *after* the session.  
 
 
-## Day 2 - Evening (August 4 -- 4.30pm-5.30pm)
+## Evening (August 4 -- 4.30pm-5.30pm)
 * [**Slides**](./slides/3.evening.pdf)
 * **Notebook:** [students_VAE](./python/Evening/students_VAE.ipynb). [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/HelgeLangseth/ProbAI26-VI-day/blob/main/python/Evening/students_VAE.ipynb)
 * **Notebook:** [solutions_VAE](./python/Evening/solutions_VAE.ipynb). Will be made available *after* the session.  
